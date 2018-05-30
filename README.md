@@ -1,4 +1,4 @@
-# project
+# Android Image Application
 
 #MyPhotoMaster
 a simple  image processing application
