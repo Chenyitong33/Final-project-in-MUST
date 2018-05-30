@@ -3,9 +3,7 @@
 Lab in CS61bl
 
 
-# Android Image Application
-
-#MyPhotoMaster
+# MyPhotoMaster
 
 A simple image processing application
 
