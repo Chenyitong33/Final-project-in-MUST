@@ -1,13 +1,16 @@
+# lab21
+
+Lab in CS61bl
+
+
 # Android Image Application
 
 #MyPhotoMaster
 
 A simple image processing application
 
-#Cropper
+
+# Cropper
 
 Library for MyPhotoMaster
 
-#lab21
-
-Lab in CS61bl
