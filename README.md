@@ -1,14 +1,16 @@
 # lab21
 
-Lab in CS61bl
+Lab21 code in Berkeley summer CS61bl
 
+========================================================
+# Final Project in MUST
 
-# MyPhotoMaster
+1. MyPhotoMaster
 
 A simple image processing application
 
 
-# Cropper
+2. Cropper
 
 Library for MyPhotoMaster
 
