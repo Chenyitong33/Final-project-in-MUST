@@ -11,6 +11,6 @@ A simple image processing application
 Library for MyPhotoMaster
 
 ========================================================
-# lab21
+# Lab code in Berkeley summer session
 
-Lab21 code in Berkeley summer CS61bl
+lab21 is a Java exercise in CS61bl
