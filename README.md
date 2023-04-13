@@ -2,15 +2,13 @@
 # Final Project in MUST
 
 1. MyPhotoMaster
-
-A simple image processing application
+  A simple image processing application
 
 
 2. Cropper
-
-Library for MyPhotoMaster
+  Library for MyPhotoMaster
 
 ========================================================
-# Lab code in Berkeley summer session
+# lab21
 
-lab21 is a Java exercise in CS61bl
+  Some Java exercises in CS61bl (UC Berkeley summer session)
